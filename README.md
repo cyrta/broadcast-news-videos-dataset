@@ -1,0 +1,2 @@
+# broadcast-news-videos-dataset
+Collection of broadcast news video clips 
